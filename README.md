@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=cava5023&theme=zen" alt="Cam0_Maha profile hero" />
+</p>
 
-<!--
-**CAVA5023/CAVA5023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=cava5023&theme=zen" alt="About Cam0_Maha" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=cava5023&theme=zen" alt="cava5023 featured projects" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=cava5023&theme=zen" alt="cava5023 contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=cava5023&theme=zen" alt="cava5023 highlights" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=cava5023&theme=zen" alt="cava5023 social links" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cava5023)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
